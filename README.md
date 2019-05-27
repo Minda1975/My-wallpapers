@@ -8,3 +8,5 @@ Most of these images are archived and stored on missions’ servers. I think, in
 Images sizes are 2560 × 1440 and in JPG format.
 
 Credits goes to [NASA](https://www.nasa.gov/), [ESA](http://www.esa.int/ESA), [Hubble](http://hubblesite.org/), [JPL](https://www.jpl.nasa.gov/) and [Psiu Puxa](http://wallpaper-site.webflow.io/).
+
+![Please do not theme this app](https://stopthemingmy.app/badge.svg)
